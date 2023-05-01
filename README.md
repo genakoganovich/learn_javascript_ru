@@ -1,1 +1,1 @@
-# learn_javascript_ru
+# https://learn.javascript.ru/
